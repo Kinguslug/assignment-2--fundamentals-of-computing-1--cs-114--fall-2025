@@ -13,7 +13,7 @@ public class CountFlips {
         tailsCount += 1;
       }
     }
-    System.out.println("\nHeads count: "+headsCount+"\nTails count: "+tailsCount);
+    System.out.println("\nHeads count: " + headsCount + "\nTails count: " + tailsCount);
   }
 
 }
