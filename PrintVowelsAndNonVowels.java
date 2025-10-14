@@ -15,9 +15,9 @@ public class PrintVowelsAndNonVowels {
     int nonVowelCount = 0;
 
     for (int i = 0; i < input.length(); i++) {
-      char ch = input.charAt(i);
+      char chracter = input.charAt(i);
 
-      switch (ch) {
+      switch (chracter) {
         case 'a':
           countA++;
           break;
